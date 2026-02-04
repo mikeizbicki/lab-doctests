@@ -1,19 +1,5 @@
 '''
-# Instructions
-
-Complete each function below so that all doctests pass.
-In the terminal, you can run the doctests with the command
-
-    $ python3 -m doctest --verbose lab.py
-
-Once all doctests pass, upload your file to github with the commands
-
-    $ git add example.py
-    $ git commit -m 'completed'
-    $ git push origin master
-
-You should see the test case badge turn green.
-Once this badge is green, upload the url of your repo to canvas.
+The purpose of this file is to help students practice writing functions and using doctests.
 '''
 
 
