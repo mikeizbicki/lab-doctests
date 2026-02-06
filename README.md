@@ -1,6 +1,6 @@
 # Lab: doctests + continuous integration
 
-<img src="https://github.com/mikeizbicki/example-doctests/workflows/tests/badge.svg" />
+<img src="https://github.com/mikeizbicki/lab-doctests/workflows/tests/badge.svg" />
 
 **Instructions:**
 
